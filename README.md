@@ -7,6 +7,7 @@ Datasets
 - `activity_data.csv`: Steps, active minutes, calories.
 - `activity_data_heartrate.csv`: Heart rate data.
 - `sleep_data.csv`: Sleep duration and quality.
+
 Visualizations
 
 - Bar Graph: Average Heart Rate per Day
